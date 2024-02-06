@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: io/github/drkunibar/netbeans/nb/memory/status/Bundle.properties
+
